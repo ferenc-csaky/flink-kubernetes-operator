@@ -18,7 +18,7 @@
 ################################################################################
 set -e
 
-export JAVA_HOME=$JAVA_HOME_11_X64
+export JAVA_HOME=$JAVA_HOME_17_X64
 
 # setup hugo
 HUGO_REPO=https://github.com/gohugoio/hugo/releases/download/v0.104.0/hugo_extended_0.104.0_Linux-64bit.tar.gz
